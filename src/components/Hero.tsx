@@ -336,7 +336,7 @@ export default function Hero() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-zinc-900/40 border border-zinc-900 p-3.5 rounded-xl">
                   <span className="block font-mono text-[9px] text-zinc-500 tracking-wider uppercase">ACADEMIC EXCELLENCE</span>
-                  <span className="text-2xl font-display font-semibold text-white">9.35</span>
+                  <span className="text-2xl font-display font-semibold text-white">9.71</span>
                   <span className="block text-[10px] text-cyan-400 mt-0.5">BE AI&ML CGPA</span>
                 </div>
                 <div className="bg-zinc-900/40 border border-zinc-900 p-3.5 rounded-xl">
